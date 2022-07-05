@@ -1,0 +1,1 @@
+# Smart-Attendance-Monitoring-System-Based-On-Face-Recognition-Mechanism-Using-Support-Vector-Machine-
